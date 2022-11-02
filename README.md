@@ -1,4 +1,4 @@
-![a robot reading a whitepaper, with the title 'predicting citation counts of AI research papers' overlaid](https://github.com/thegrandblooms/Predicting_Citation_Counts_of_AI_Research_Papers/blob/1e28c274bf4dd404f4acc1f37fcf8d8f9d1ec057/images/header.jpg)
+![a robot reading a whitepaper, with the title 'predicting citation counts of AI research papers' overlaid](https://github.com/thegrandblooms/Predicting_Citation_Counts_of_AI_Research_Papers/blob/71a633c31d15fb8128c4518ace4739a52a39f840/images/header.jpg)
 
 In this quick notebook I show a Natural Language Processing and Machine Learning pipeline to predict 4.3% of variance (R2) in citation counts of research papers about Artificial Intelligence. This data is sourced from the ['aminer' database](https://www.kaggle.com/datasets/kmader/aminer-academic-citation-dataset), and the papers analyzed are those that were presented through the [International Joint Conference on Artificial Intelligence](https://www.ijcai.org/).
 
