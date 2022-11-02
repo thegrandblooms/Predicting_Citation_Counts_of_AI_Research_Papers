@@ -1,4 +1,4 @@
-# Predicting Citation Counts of Research Papers
+# Predicting Citation Counts of Artificial Intelligence Research Papers
 ### Using ROBERTA Document Embeddings and Linear Regression
 
 In this quick notebook I show a Natural Language Processing and Machine Learning pipeline to predict 4.3% of variance (R2) in citation counts of research papers about Artificial Intelligence. This data is sourced from the 'aminer' database, and the papers analyzed are those that were presented through the International Joint Conference on Artificial Intelligence.
